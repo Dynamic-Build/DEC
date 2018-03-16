@@ -4,3 +4,8 @@
 * Serge Zaitsev
 * James Onnen
 * Jonathan Holmes
+* David Manura
+* Fabio Mascarenhas
+* Roberto Ierusalimschy
+* André Carregal
+* Tomás Guisasola
