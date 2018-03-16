@@ -9,3 +9,5 @@
 * Roberto Ierusalimschy
 * André Carregal
 * Tomás Guisasola
+* Hisham Muhammad
+* Leaf Corcoran
