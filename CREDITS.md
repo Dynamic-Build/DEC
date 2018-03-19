@@ -12,3 +12,4 @@
 * Hisham Muhammad
 * Leaf Corcoran
 * Ricardo Loureiro
+* Ricki Lake
