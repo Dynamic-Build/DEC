@@ -13,3 +13,5 @@
 * Leaf Corcoran
 * Ricardo Loureiro
 * Ricki Lake
+* Matthew Wild
+* Waqas Hussain
